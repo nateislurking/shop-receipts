@@ -1,0 +1,3 @@
+# OS noise only. Anything ignored-but-present fails the publish gate.
+.DS_Store
+Thumbs.db
