@@ -1,5 +1,8 @@
 # Shop receipts
 
+> **Retired November 18, 2026.** The daily digest these receipts sat behind has ended, so no new
+> receipts will be added. Every one already here stays up, free under its license.
+
 The conversation records behind the shop's daily digest — the actual back-and-forth between the
 owner and the machine that each day's issue was written from, curated and published.
 
